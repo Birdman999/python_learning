@@ -18,6 +18,11 @@ print ("C=",c)
 ## why add comment here
 
 ## modify by main 
+
 ## stash 2
 
 ## stash test 3
+
+# git stash 0
+
+# git stash 1
