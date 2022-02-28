@@ -12,3 +12,6 @@ for i in range(10):
   c = c + a*i + b;
 
 print ("C=",c)
+
+## 1st conflict while happen here
+# main add this line
