@@ -12,3 +12,5 @@ for i in range(10):
   c = c + a*i + b;
 
 print ("C=",c)
+
+## why add comment here
